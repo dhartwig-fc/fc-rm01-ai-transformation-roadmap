@@ -230,6 +230,7 @@ Strategic artefacts, operating model thinking and AI use case design.
 
 financial-crime-ai-learning-roadmap/
 
+```text
 ├── README.md
 
 ├── 01-python-pandas-apis/
@@ -265,7 +266,7 @@ financial-crime-ai-learning-roadmap/
     ├── roadmap.md
     ├── architecture-notes.md
     └── portfolio-summary.md
-
+```
 ---
 
 # Weekly Learning Log Template
