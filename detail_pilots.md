@@ -496,3 +496,187 @@ Together, these projects form a broader Financial Crime AI ecosystem.
 - The Sanctions Intelligence Assistant supports specialist sanctions research.
 
 Collectively, these projects demonstrate how AI, analytics, graph technology, automation and integration architecture can transform financial crime operations.
+
+------
+
+## Future Financial Crime AI Architecture Vision
+
+If the Financial Crime AI portfolio continues to expand, there is sufficient material to justify a dedicated architecture repository focused entirely on AI architecture patterns for financial crime use cases.
+
+Potential repository:
+
+```text
+fc-rm02-financial-crime-ai-reference-architectures
+```
+
+This repository would become the equivalent of the Network Intelligence repository, but focused on AI capabilities, architecture patterns and enterprise implementation approaches.
+
+Potential architecture patterns could include:
+
+```text
+AI001 Investigator Copilot Architecture
+AI002 Financial Crime Knowledge Assistant Architecture
+AI003 Sanctions Intelligence Assistant Architecture
+AI004 Financial Crime Agent Architecture
+AI005 MCP Financial Crime Integration Architecture
+AI006 Financial Crime RAG Architecture
+AI007 Human-in-the-Loop Governance Architecture
+AI008 Case Intelligence Model Architecture
+```
+
+---
+
+## Why This Matters
+
+Most AI portfolios consist of isolated demonstrations, chatbots or proof-of-concept solutions.
+
+The objective of this portfolio is different.
+
+The goal is to demonstrate how AI can operate safely, explainably and effectively within regulated financial crime environments.
+
+Rather than building disconnected AI applications, the portfolio establishes a coherent architecture framework where capabilities build upon one another.
+
+---
+
+## The Importance of the Case Intelligence Model
+
+One of the strongest architectural concepts emerging from the portfolio is the Case Intelligence Model.
+
+The Case Intelligence Model acts as the bridge between Network Intelligence and AI capabilities.
+
+Rather than allowing AI to reason directly over raw data, the architecture introduces a structured intelligence layer that provides trusted context to downstream AI services.
+
+Conceptually:
+
+```text
+Raw Data
+    ↓
+Network Intelligence
+    ↓
+Case Intelligence Model
+    ↓
+AI Investigator Copilot
+    ↓
+Human Decision
+```
+
+This creates a significantly more defensible architecture than simply exposing an LLM directly to operational data.
+
+---
+
+## Benefits Of The Case Intelligence Model
+
+The Case Intelligence Model provides:
+
+- Structured investigation context
+- Explainable intelligence outputs
+- Reduced hallucination risk
+- Consistent evidence representation
+- Better auditability
+- Stronger governance controls
+- Improved regulatory defensibility
+
+The AI layer becomes a consumer of intelligence rather than the creator of intelligence.
+
+---
+
+## Relationship To Existing Network Intelligence Capabilities
+
+The Case Intelligence Model is constructed using outputs from existing Network Intelligence capabilities.
+
+These include:
+
+```text
+Entity Resolution
+Relationship Discovery
+Beneficial Ownership Intelligence
+Network Risk Assessment
+Investigation Workflow Intelligence
+```
+
+Each capability transforms raw operational data into intelligence products that can be trusted and consumed by AI services.
+
+---
+
+## Future Financial Crime AI Ecosystem
+
+The longer-term architecture vision is that multiple AI capabilities consume the same Case Intelligence Model.
+
+Illustratively:
+
+```text
+Entity Resolution
+Relationship Discovery
+Beneficial Ownership Intelligence
+Network Risk Assessment
+Investigation Workflow Intelligence
+            ↓
+     Case Intelligence Model
+            ↓
+  Investigator Copilot
+  Knowledge Assistant
+  Sanctions Assistant
+  AI Agents
+```
+
+This creates a common intelligence foundation across the Financial Crime AI ecosystem.
+
+---
+
+## Why The Architecture Is Strong
+
+The architecture is effective because it positions AI correctly within the overall operating model.
+
+The AI is not expected to discover intelligence from scratch.
+
+Instead:
+
+- Intelligence capabilities generate trusted outputs.
+- The Case Intelligence Model organises those outputs.
+- AI interprets and explains the intelligence.
+- Humans make decisions.
+
+Conceptually:
+
+```text
+Data Layer
+    ↓
+Intelligence Layer
+    ↓
+Case Intelligence Layer
+    ↓
+AI Assistance Layer
+    ↓
+Human Decision Layer
+```
+
+This separation of responsibilities improves explainability, governance and operational trust.
+
+---
+
+## Strategic Direction
+
+The portfolio is evolving beyond individual AI demonstrations toward a broader Financial Crime AI Architecture Framework.
+
+This framework combines:
+
+- Network Intelligence
+- Graph Analytics
+- Investigation Intelligence
+- Financial Crime Intelligence
+- Retrieval Augmented Generation
+- AI Agents
+- MCP Integration
+- Human-in-the-Loop Governance
+
+into a coherent architecture model for modern financial crime operations.
+
+---
+
+## Key Message
+
+The long-term vision is not a collection of AI tools.
+
+The long-term vision is a Financial Crime AI ecosystem built upon trusted intelligence, structured evidence, explainable AI and human decision-making.
+
+The Case Intelligence Model becomes the central architectural pattern that connects Network Intelligence capabilities with future AI-powered investigation, intelligence and compliance solutions.
