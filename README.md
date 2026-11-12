@@ -4,6 +4,8 @@ A focused 6-month learning and build roadmap designed to develop practical AI, a
 
 This repository tracks my progression from Python and data analysis fundamentals through to RAG, agentic workflows, MCP and Financial Crime AI prototypes.
 
+> **Status (12 November 2026):** this is the roadmap as written in June 2026, kept unchanged. No progress has been recorded here, and the folder structure described below was planned but never created: the repository holds this README and `detail_planned_pilots.md`. Much of the build went into other repositories instead, chiefly NEXUS, the Financial Crime Intelligence Platform (see the [portfolio site](https://dhartwig-fc.github.io/dan-hartwig-portfolio/)), and [fc-08](https://github.com/dhartwig-fc/fc-08-emerging-threat-intelligence), the agent-based threat intelligence pipeline.
+
 ---
 
 ## Objective
@@ -227,6 +229,8 @@ Strategic artefacts, operating model thinking and AI use case design.
 ---
 
 # Repository Structure
+
+The planned structure, June 2026. It was not created.
 
 financial-crime-ai-learning-roadmap/
 
